@@ -1,0 +1,15 @@
+{
+  "client_id": "https://xupengli406-del.github.io/digital-human-video-bot-oauth/client-metadata.json",
+  "client_name": "Digital Human Video Bot for DeepSeek Harness",
+  "redirect_uris": [
+    "http://127.0.0.1:48239/oauth/callback"
+  ],
+  "token_endpoint_auth_method": "none",
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ]
+}
